@@ -33,3 +33,23 @@ SCREENSHOTY:
 ![program](https://user-images.githubusercontent.com/47063149/77654044-cc21aa00-6f70-11ea-9493-b626dc901cf9.JPG)
 ![backup](https://user-images.githubusercontent.com/47063149/77654057-d348b800-6f70-11ea-8a5c-7044a16139cc.JPG)
 ![strona](https://user-images.githubusercontent.com/47063149/77654070-db085c80-6f70-11ea-9416-4ad553f83ce3.jpg)
+
+
+
+Program posiada też swoją wersję w języku Java w postaci aplikacji okienkowej. 
+
+
+Funkcjonalność wersji w języku Java:
+* program pobiera dane (liczbę punktów do wylosowania) od użytkownika
+* program sprawdza poprawność wprowadzonych danych
+* wykonuje obliczenia i na końcu zwraca wynik w okienku aplikacji
+* wyświetla informacje o programie 
+
+
+SCREENSHOTY:
+
+![java1](https://user-images.githubusercontent.com/47063149/77656591-620b0400-6f74-11ea-8e09-20bf89b69925.JPG)
+![java2](https://user-images.githubusercontent.com/47063149/77656628-73541080-6f74-11ea-8fcf-dfcd8d40d726.JPG)
+![java3](https://user-images.githubusercontent.com/47063149/77656669-81099600-6f74-11ea-9090-335f8caaf497.JPG)
+![java4](https://user-images.githubusercontent.com/47063149/77656671-81a22c80-6f74-11ea-8628-152a15589163.JPG)
+
